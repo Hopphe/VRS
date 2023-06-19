@@ -1,0 +1,907 @@
+.desktop {
+    background-color: #fffdfd;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .desktop .div {
+    background-color: #fffdfd;
+    border: 1px none;
+    height: 6013px;
+    overflow: hidden;
+    position: relative;
+    width: 1440px;
+  }
+  
+  .desktop .overlap {
+    background-color: #e6f0e3;
+    height: 975px;
+    left: 0;
+    position: absolute;
+    top: -72px;
+    width: 1449px;
+  }
+  
+  .desktop .overlap-group {
+    height: 637px;
+    left: 162px;
+    position: absolute;
+    top: 308px;
+    width: 1118px;
+  }
+  
+  .desktop .overlap-2 {
+    height: 637px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 1118px;
+  }
+  
+  .desktop .FIND-THE-RIDE-THAT {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 68px;
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 53px;
+    width: 612px;
+  }
+  
+  .desktop .rectangle {
+    height: 637px;
+    left: 568px;
+    position: absolute;
+    top: 0;
+    width: 550px;
+  }
+  
+  .desktop .lorem-ipsum-is {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 4px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 317px;
+    width: 310px;
+  }
+  
+  .desktop .div-wrapper {
+    background-color: #090404;
+    border-radius: 16px;
+    height: 68px;
+    left: 22px;
+    position: absolute;
+    top: 439px;
+    width: 211px;
+  }
+  
+  .desktop .text-wrapper {
+    color: #ffffff;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 60px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-3 {
+    background-color: #f6f5f5;
+    border-radius: 16px;
+    height: 68px;
+    left: 1047px;
+    position: absolute;
+    top: 148px;
+    width: 211px;
+  }
+  
+  .desktop .text-wrapper-2 {
+    color: #010101;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 80px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 23px;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-3 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 445px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 166px;
+  }
+  
+  .desktop .text-wrapper-4 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 567px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 166px;
+  }
+  
+  .desktop .text-wrapper-5 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 671px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 166px;
+  }
+  
+  .desktop .text-wrapper-6 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 24px;
+    font-weight: 400;
+    left: 842px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 166px;
+  }
+  
+  .desktop .text-wrapper-7 {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 40px;
+    font-weight: 900;
+    left: 156px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 157px;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-4 {
+    height: 126px;
+    left: 338px;
+    position: absolute;
+    top: 3095px;
+    width: 780px;
+  }
+  
+  .desktop .text-wrapper-8 {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 48px;
+    font-weight: 900;
+    left: 324px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .desktop .p {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 107px;
+    white-space: nowrap;
+    width: 780px;
+  }
+  
+  .desktop .group {
+    height: 93px;
+    left: 359px;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .desktop .line {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .line-wrapper {
+    height: 93px;
+    left: 571px;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .desktop .img {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .lorem-ipsum-is-2 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 558px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1853px;
+    width: 376px;
+  }
+  
+  .desktop .overlap-group-2 {
+    height: 745px;
+    left: 0;
+    position: absolute;
+    top: 2286px;
+    width: 1440px;
+  }
+  
+  .desktop .rectangle-2 {
+    background-color: #090404;
+    border-radius: 16px;
+    height: 68px;
+    left: 187px;
+    position: absolute;
+    top: 509px;
+    width: 211px;
+  }
+  
+  .desktop .text-wrapper-9 {
+    color: #ffffff;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 249px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 532px;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-3 {
+    background-color: #d9d9d9;
+    height: 391px;
+    left: 770px;
+    position: absolute;
+    top: 85px;
+    width: 489px;
+  }
+  
+  .desktop .rectangle-4 {
+    background-color: #797171;
+    height: 191px;
+    left: 770px;
+    position: absolute;
+    top: 386px;
+    width: 489px;
+  }
+  
+  .desktop .CAR-OF-THE-YEAR {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 96px;
+    font-weight: 900;
+    left: 157px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 142px;
+  }
+  
+  .desktop .text-wrapper-10 {
+    color: #040303;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 919px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 484px;
+  }
+  
+  .desktop .lorem-ipsum-is-3 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 187px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 403px;
+    width: 447px;
+  }
+  
+  .desktop .rectangle-5 {
+    height: 745px;
+    left: 0;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop .overlap-5 {
+    background-color: #d9d9d9;
+    height: 333px;
+    left: 169px;
+    position: absolute;
+    top: 3294px;
+    width: 338px;
+  }
+  
+  .desktop .rectangle-6 {
+    background-color: #ffffff;
+    height: 51px;
+    left: 20px;
+    position: absolute;
+    top: 248px;
+    width: 299px;
+  }
+  
+  .desktop .text-wrapper-11 {
+    color: #080606;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 122px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 265px;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-6 {
+    background-color: #d9d9d9;
+    height: 333px;
+    left: 572px;
+    position: absolute;
+    top: 3294px;
+    width: 338px;
+  }
+  
+  .desktop .rectangle-7 {
+    background-color: #ffffff;
+    height: 49px;
+    left: 19px;
+    position: absolute;
+    top: 248px;
+    width: 299px;
+  }
+  
+  .desktop .text-wrapper-12 {
+    color: #080606;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 137px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 262px;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-7 {
+    background-color: #d9d9d9;
+    height: 333px;
+    left: 952px;
+    position: absolute;
+    top: 3294px;
+    width: 338px;
+  }
+  
+  .desktop .rectangle-8 {
+    background-color: #ffffff;
+    height: 49px;
+    left: 20px;
+    position: absolute;
+    top: 248px;
+    width: 299px;
+  }
+  
+  .desktop .text-wrapper-13 {
+    color: #080606;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 126px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 259px;
+    white-space: nowrap;
+  }
+  
+  .desktop .text-wrapper-14 {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 48px;
+    font-weight: 900;
+    left: 651px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1092px;
+  }
+  
+  .desktop .text-wrapper-15 {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 48px;
+    font-weight: 900;
+    left: 556px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1746px;
+  }
+  
+  .desktop .text-wrapper-16 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 328px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 1165px;
+    white-space: nowrap;
+    width: 780px;
+  }
+  
+  .desktop .overlap-8 {
+    background-color: #d9d9d9;
+    height: 333px;
+    left: 159px;
+    position: absolute;
+    top: 1257px;
+    width: 338px;
+  }
+  
+  .desktop .rectangle-9 {
+    background-color: #ffffff;
+    height: 49px;
+    left: 17px;
+    position: absolute;
+    top: 248px;
+    width: 299px;
+  }
+  
+  .desktop .text-wrapper-17 {
+    color: #080606;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 123px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 262px;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-9 {
+    background-color: #d9d9d9;
+    height: 333px;
+    left: 549px;
+    position: absolute;
+    top: 1257px;
+    width: 338px;
+  }
+  
+  .desktop .rectangle-10 {
+    background-color: #ffffff;
+    height: 49px;
+    left: 19px;
+    position: absolute;
+    top: 248px;
+    width: 299px;
+  }
+  
+  .desktop .text-wrapper-18 {
+    color: #080606;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 125px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 262px;
+    white-space: nowrap;
+  }
+  
+  .desktop .overlap-10 {
+    background-color: #d9d9d9;
+    height: 333px;
+    left: 940px;
+    position: absolute;
+    top: 1257px;
+    width: 338px;
+  }
+  
+  .desktop .rectangle-11 {
+    background-color: #ffffff;
+    height: 49px;
+    left: 19px;
+    position: absolute;
+    top: 248px;
+    width: 299px;
+  }
+  
+  .desktop .text-wrapper-19 {
+    color: #080606;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 125px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 265px;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-12 {
+    height: 431px;
+    left: 158px;
+    position: absolute;
+    top: 1695px;
+    width: 339px;
+  }
+  
+  .desktop .overlap-11 {
+    height: 57px;
+    left: 569px;
+    position: absolute;
+    top: 3881px;
+    width: 376px;
+  }
+  
+  .desktop .lorem-ipsum-is-4 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 376px;
+  }
+  
+  .desktop .lorem-ipsum-is-5 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 376px;
+  }
+  
+  .desktop .lorem-ipsum-is-6 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 216px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-align: center;
+    top: 5291px;
+    width: 1009px;
+  }
+  
+  .desktop .text-wrapper-20 {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 48px;
+    font-weight: 900;
+    left: 567px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 3774px;
+  }
+  
+  .desktop .text-wrapper-21 {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 48px;
+    font-weight: 900;
+    left: 599px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5198px;
+  }
+  
+  .desktop .rectangle-13 {
+    height: 431px;
+    left: 169px;
+    position: absolute;
+    top: 3723px;
+    width: 339px;
+  }
+  
+  .desktop .overlap-12 {
+    background-color: #000000;
+    border-radius: 26px;
+    height: 141px;
+    left: 561px;
+    position: absolute;
+    top: 1985px;
+    width: 505px;
+  }
+  
+  .desktop .img-wrapper {
+    height: 93px;
+    left: 147px;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .desktop .line-2 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .group-2 {
+    height: 93px;
+    left: 359px;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .desktop .line-3 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .overlap-13 {
+    background-color: #000000;
+    border-radius: 26px;
+    height: 141px;
+    left: 573px;
+    position: absolute;
+    top: 3988px;
+    width: 505px;
+  }
+  
+  .desktop .group-3 {
+    height: 93px;
+    left: 147px;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .desktop .line-4 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .group-4 {
+    height: 93px;
+    left: 359px;
+    position: absolute;
+    top: 24px;
+    width: 1px;
+  }
+  
+  .desktop .line-5 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .group-5 {
+    height: 93px;
+    left: 727px;
+    position: absolute;
+    top: 2168px;
+    width: 1px;
+  }
+  
+  .desktop .line-6 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .group-6 {
+    height: 93px;
+    left: 939px;
+    position: absolute;
+    top: 2168px;
+    width: 1px;
+  }
+  
+  .desktop .line-7 {
+    height: 93px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 5px;
+  }
+  
+  .desktop .overlap-14 {
+    height: 745px;
+    left: 0;
+    position: absolute;
+    top: 4277px;
+    width: 1440px;
+  }
+  
+  .desktop .rectangle-14 {
+    background-color: #090404;
+    border-radius: 16px;
+    height: 68px;
+    left: 199px;
+    position: absolute;
+    top: 541px;
+    width: 211px;
+  }
+  
+  .desktop .text-wrapper-22 {
+    color: #ffffff;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 261px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 564px;
+    white-space: nowrap;
+  }
+  
+  .desktop .rectangle-15 {
+    background-color: #d9d9d9;
+    height: 391px;
+    left: 788px;
+    position: absolute;
+    top: 123px;
+    width: 489px;
+  }
+  
+  .desktop .rectangle-16 {
+    background-color: #797171;
+    height: 191px;
+    left: 788px;
+    position: absolute;
+    top: 418px;
+    width: 489px;
+  }
+  
+  .desktop .BIKE-OF-THE-YEAR {
+    color: #000000;
+    font-family: "Lato-Black", Helvetica;
+    font-size: 96px;
+    font-weight: 900;
+    left: 169px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 174px;
+  }
+  
+  .desktop .text-wrapper-23 {
+    color: #040303;
+    font-family: "Lato-Bold", Helvetica;
+    font-size: 48px;
+    font-weight: 700;
+    left: 853px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 516px;
+  }
+  
+  .desktop .lorem-ipsum-is-7 {
+    color: #000000;
+    font-family: "Lato-Regular", Helvetica;
+    font-size: 16px;
+    font-weight: 400;
+    left: 199px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 435px;
+    width: 447px;
+  }
+  
+  .desktop .rectangle-17 {
+    height: 745px;
+    left: 0;
+    mix-blend-mode: multiply;
+    position: absolute;
+    top: 0;
+    width: 1440px;
+  }
+  
+  .desktop .overlap-15 {
+    background-color: #d9d9d9;
+    height: 467px;
+    left: 0;
+    position: absolute;
+    top: 5546px;
+    width: 1440px;
+  }
+  
+  .desktop .rectangle-18 {
+    background-color: #636060;
+    height: 260px;
+    left: 0;
+    position: absolute;
+    top: 207px;
+    width: 1440px;
+  }
+  
+  .desktop .rectangle-19 {
+    background-color: #fffbfb;
+    height: 121px;
+    left: 445px;
+    position: absolute;
+    top: 149px;
+    width: 550px;
+  }
+  
